@@ -1,0 +1,62 @@
+user: nitesh
+score: 2	max_score: 2
+score: 7	max_score: 7
+total score in this session: 9
+
+user: ravi
+score: 3	max_score: 3
+total score in this session: 3
+
+user: nitesh
+score: 3	max_score: 3
+score: 6	max_score: 6
+total score in this session: 9
+
+user: saurabh
+score: 0	max_score: 0
+score: 1	max_score: 1
+score: 0	max_score: 1
+total score in this session: 1
+
+user: potter
+score: 2	max_score: 2
+score: 6	max_score: 6
+total score in this session: 8
+
+user: brick	level: easy
+score: 2	max_score: 2
+score: 5	max_score: 5
+score: 5	max_score: 5
+score: 5	max_score: 5
+score: 5	max_score: 5
+total score in this session: 22
+
+user: emraan hashmi	level: medium
+score: 1	max_score: 1
+score: 6	max_score: 6
+total score in this session: 7
+
+user: mama	level: hard
+score: 6	max_score: 6
+score: 9	max_score: 9
+total score in this session: 15
+
+user: nitesh	level: easy
+score: 2	max_score: 2
+score: 2	max_score: 2
+total score in this session: 4
+
+user: nitesh	level: medium
+score: 4	max_score: 4
+total score in this session: 4
+
+user: ntiesh	level: easy
+score: 0	max_score: 0
+score: 1	max_score: 1
+total score in this session: 1
+
+user: nti	level: hard
+score: 4	max_score: 4
+score: 5	max_score: 5
+total score in this session: 9
+
